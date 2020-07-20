@@ -39,6 +39,11 @@ Approx $0.00033333 per request
 # Solution 3: AWS Kenesis
 
 # Solution 4: Snowflake
+Same setup as AWS EMR test. Using the 'large' type warehouse, returns 20 columns
+and sorted by Levenshtein distance in ~5 seconds. 
+
+Cost 8 credits/hour, roughly equates to $16-32 per hour. 
+
 
 
 
